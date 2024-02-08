@@ -1,6 +1,8 @@
 # popitka_2
 
 A new Flutter project.
+![Без имени](https://github.com/RailNuriev/Sharaga1/assets/159270161/f8833694-fb72-4583-8752-e392d4f6e1f5)
+
 
 ## Getting Started
 
